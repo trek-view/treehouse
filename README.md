@@ -1,10 +1,8 @@
-# Trekker Camp
+# Treehouse
 
 ## About
 
-HTML + GitHub pages site for https://www.trekview.org
-
-Pages branch (protected) hosts GitHub pages build for: [https://treehouse.trekview.org](https://www.trekview.org)
+HTML + GitHub pages site for: https://treehouse.trekview.org
 
 ## License
 
